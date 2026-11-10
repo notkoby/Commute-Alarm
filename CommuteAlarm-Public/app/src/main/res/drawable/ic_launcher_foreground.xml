@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Emerald Outer Alarm Ring -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M54,30A26,26 0,1 1,28 56A26,26 0,0 1,54 30M54,35A21,21 0,1 0,75 56A21,21 0,0 0,54 35Z" />
+    <!-- Warm Amber Top Twin Alarm Bells -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M35,24L25,33L29,37L39,28Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M73,24L83,33L79,37L69,28Z" />
+    <!-- Crisp White Clock Hands -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,42h4v14h-4z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,54l10,6l-2,3.5l-10,-6z" />
+    <!-- Center Pivot Dot -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,56m-3.5,0a3.5,3.5 0,1 1,7 0a3.5,3.5 0,1 1,-7 0" />
+</vector>
